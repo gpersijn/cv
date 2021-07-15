@@ -1,0 +1,25 @@
+.profileImage {
+    width: 200px;
+}
+body {
+    background-color: #F8F5F1
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #45526C;
+    border-width: 5px;
+    width: 5%;
+}
+h1 {
+    color: #f89776;
+}
+h2, h3 { 
+    color: #F8A488;
+}
+p, li, a, td, form {
+    color: #5AA897;  
+}
+th {
+    color: #5a6b8d;
+}
